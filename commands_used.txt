@@ -1,0 +1,27 @@
+-- create a file -Your CV- as .txt commit it
+git init 
+git add .
+git commit -m "first commit"
+
+----
+-- change your name to start with Eng. **** then amend the commit
+git add .
+git commit -m "sec commit"
+git add .
+git commit --amend -m "second commit"           
+
+----
+
+-- add a line in the CV "Skill: bad skill" then commit it, remove the previous commit.
+git add .
+git commit -m "add bad skill"
+git reset --hard HEAD~1
+
+----
+-- add commands file, then push it to your github.
+git add .
+git commit -m "commands-used"
+git remote add origin git@github.com:Rawwann/lab-1.git
+git branch -M main
+git push -u origin main
+
