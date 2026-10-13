@@ -1,0 +1,82 @@
+RAWAN HANY ABDEL RAOUF
+01552906411 | hanyrawan49@gmail.com | LinkedIn | GitHub | Behance | Nasr City, Cairo, Egypt
+PROFESSIONAL SUMMARY
+Frontend Developer and Business Information Systems graduate (GPA 3.839/4.0) specializing in React.js, Next.js,
+and TypeScript, with a strong foundation in UI/UX design (Figma) and RESTful API integration. Combines technical
+depth with business acumen gained through five industry internships at PETROBEL, Halliburton, NBE, Faisal
+Islamic Bank, and CIB. Proven ability to build clean, scalable, accessible web applications and translate complex
+business requirements into user-centered digital solutions.
+EDUCATION
+B.Sc. in Management Sciences – Major: Business Information Systems 2022 – 2026
+Sadat Academy for Management Sciences | GPA: 3.839 / 4.0 (Excellent with Honor)
+CORE COMPETENCIES & TECHNICAL SKILLS
+Frontend Development: HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • React.js • Next.js • Redux
+Toolkit • Tailwind CSS • SASS • Bootstrap
+Design & UX: Figma • Adobe XD • Photoshop • Illustrator • Wireframing • Prototyping • UX Research •
+Usability Testing
+Performance & Accessibility: WCAG 2.1 • ARIA • Semantic HTML • Code Splitting • Lazy Loading •
+Responsive Design • RESTful API Integration
+Data & BI Tools: Power BI • Power Apps • SQL Server • MySQL • Excel (Advanced) • Microsoft Access
+Version Control & Tooling: Git • GitHub • VS Code
+Office & Collaboration: PowerPoint • Word • Outlook • Microsoft Teams • Adobe Acrobat • Notion
+WORK EXPERIENCE
+IT Trainee | PETROBEL September 2025
+• Designed and deployed a relational database system using SQL Server, applying data normalization
+techniques to enforce integrity.
+• Produced ER diagrams and structured technical documentation to support ongoing system maintenance.
+Internal Control Trainee | Faisal Islamic Bank August 2025
+• Validated daily banking vouchers, card activations, and operational documents including check collections and
+internal transfers to ensure procedural compliance.
+Planning & Follow-up Trainee | PETROBEL September 2024
+• Tracked committee milestones, monitored stakeholder alignment, identified pipeline bottlenecks, and produced
+structured reports to support strategic project decisions.
+IT Trainee | Halliburton August 2024
+• Built 3 Excel-based validation tools to enforce data integrity rules, reducing manual correction time by
+approximately 40% and improving field data accuracy.
+• Developed functional business applications using Microsoft Power Apps and managed hardware tracking
+systems.
+Banking Operations Trainee | NBE Bank July 2024
+• Processed daily account setups and fund transfers while supporting compliance checks, gaining direct
+exposure to banking onboarding workflows.
+Banking Technology Trainee | CIB Egypt August 2023
+• Completed intensive training on Digital Banking, AI, and Cybersecurity, earning 8 certifications from LinkedIn
+Learning.
+• Led a 4-person team to produce a cybersecurity awareness video on digital banking phishing — ranked 1st
+among competing teams.
+PROJECTS
+Graduation Project: "KIO" – AI-Driven Smart Recruitment Platform
+Next.js 16 • React 19 • TypeScript • Tailwind CSS • NextAuth • Figma
+• Architected dual role-based dashboards (recruiter & candidate) with RBAC enforced at the Next.js middleware level for secure route protection and user segmentation.
+• Built a custom NextAuth credentials provider authenticating against a Django backend, combined with GitHub OAuth — enabling seamless multi-provider authentication and session management.
+• Integrated CV upload (react-dropzone), GitHub API for code analysis, real-time analytics (Recharts), Stripe billing, and PWA with offline support — within a single cohesive Next.js 16 / React 19 / TypeScript stack.
+• Designed the full UI/UX workflow and high-fidelity Figma prototypes; project achieved a perfect score of 100/100 (A+) and was nominated by the Dean of the Faculty as a candidate for the college's new entrepreneurship platform.
+FreshCart – E-Commerce Storefront
+Next.js 16 • React 19 • TypeScript • Tailwind CSS • NextAuth.js • Zod • React Hook Form
+• Developed a modern e-commerce storefront featuring product browsing, cart, wishlist, checkout, order tracking, and user account management.
+• Implemented secure authentication, validated forms, and responsive UI using Next.js, TypeScript, Tailwind CSS, and NextAuth.
+• Built the application with a clean, modular architecture using domain-based hooks, services, and context for maintainability and scalability.
+Adasa – Arabic Photography Blog Platform
+React • Vite • Tailwind CSS • React Router • Framer Motion • HeroUI • React Icons
+• Built a modern, responsive photography blog website with a polished UI and Arabic RTL support.
+• Implemented core blog features such as search, category filtering, pagination, and multiple post views.
+• Focused on performance, accessibility, and clean component-based architecture for a smooth user experience.
+Diabuddy – Diabetes Management App (UX/UI Case Study)
+Figma • UX Research • User Flows • Wireframing • Prototyping • Design Systems • UI Design
+• Designed a user-centered mobile health application for diabetes management, using UX research, user flows, wireframes, prototypes, and a consistent UI design system to enhance usability and patient experience.
+CERTIFICATIONS & COURSES
+Artificial Intelligence Fundamentals – IBM June 2026
+Front-End Web Development Diploma – Route Academy September 2025 – March 2026
+HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • React.js • Redux Toolkit • Next.js • Tailwind • SASS • Bootstrap • Web Accessibility
+UI/UX Web Designer – Digital Arts (DEPI) June 2025 – December 2026
+UX & UI Design • Figma • Adobe XD • Illustrator • Photoshop • Prompt Engineering
+Master Git & GitHub – Udemy May 2025
+Data Structures & Algorithms – Udemy April 2025
+Innovation Program – TIEC (InnovEgypt) January 2024 – February 2024
+• Developed the 'Mama's Kitchen' cloud kitchen concept using Design Thinking methodology — earned an 'A' grade for innovation and societal impact.
+LEADERSHIP & EXTRACURRICULARS
+Team Leader | Digital Arts Initiative (DEPI) June 2025 – December 2025
+• Led team communications and resolved technical blockers across a 6-month intensive UI/UX training program.
+Media Team Member | Enactus October 2023 – May 2025
+• Managed live event coverage and produced visual content assets using Adobe Creative Suite.
+LANGUAGES
+Arabic: Native | English: B2 – Upper Intermediate
